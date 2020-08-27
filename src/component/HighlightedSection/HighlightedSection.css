@@ -1,0 +1,57 @@
+
+
+/* THIS SECTION WILL BE ADDED AFTER COMPLETING ROUTER SETUP
+I MADE IT JUST FOR PRACTICE
+-THANKS... */
+
+
+
+.highlight-area{
+    background-color: #BCDEFE;
+}
+
+.highlight-row{
+    min-height: 90vh;
+}
+
+.highlight-content{
+    text-align: left;
+    margin: auto 0;
+}
+
+.sub-title{
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #2d3092;
+    margin: 20px 0;
+}
+
+.title{
+    font-size: 65px;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #030431;
+    margin: 10px 30px 10px 0;
+}
+
+.highlight-btn{
+    background-color: #2d3092;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 15px 38px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 3px;
+}
+
+.highlight-btn:hover{
+    background-color: #3E44EC;
+}
+
+
+.highlight-img{
+    max-width: 100%;
+    margin: auto;
+}

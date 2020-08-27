@@ -1,0 +1,29 @@
+.courses{
+    padding: 50px 0;
+    background-color: #f5f5f5;
+    border-right: 2px solid lightgray;
+}
+
+.title{
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1{
+    color: #0d194b;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.cart{
+    background-color: #f1f1f1;
+    padding: 50px 0;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: bold;
+    color: #0d194b;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+}

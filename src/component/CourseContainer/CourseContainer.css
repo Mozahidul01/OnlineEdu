@@ -1,0 +1,63 @@
+.card{
+    margin: 20px 10px;
+    border: none;
+}
+
+.category{
+    color: #6e7697 !important;
+    margin: 0px !important;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.course-title{
+    font-size: 21px;
+    font-weight: 700;
+    margin: 10px 0 15px 0 !important;
+    color: #030431 !important;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.middle-row{
+    text-align: left !important;
+}
+.extra{
+    margin: 10px 0 0 0;
+}
+
+.icon{
+    font-size: 18px;
+    color: #a9a9a9;
+}
+
+.video span,
+.time span{
+    font-size: 14px;
+    font-weight: 400;
+    color: #696969;
+    padding: 0 0 0 2px;
+}
+
+.price{
+    font-size: 26px;
+    font-weight: 700;
+    color: #070835 !important;
+}
+
+.enroll-btn{
+    width: 90%;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 0 15px 0;
+    border: 1px solid #E2E4FF;
+    color: #030431 !important;
+    background-color: #ffffff;
+}
+
+.enroll-btn:hover{
+    color: #ffffff !important;
+    background-color: #3E44EC;
+}

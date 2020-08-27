@@ -1,0 +1,28 @@
+.cart-box{
+    border: 1px solid rgba(211, 211, 211, 0.5);
+    background-color: #f8f8ff;
+    padding: 50px 20px 30px 50px;
+}
+
+.text{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.number{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.checkout-btn{
+    width: 100%;
+    margin: 25px 0;
+    padding: 12px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    background-color: #030431;
+    border: none;
+}
