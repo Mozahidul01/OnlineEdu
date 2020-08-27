@@ -11,16 +11,16 @@ const CartContainer = (props) => {
         <div>
             <Container fluid className="cart-box shadow-lg">
                 <Row>
-                <Col md={8} className="text"><p>Courses Selected: </p></Col>
-                <Col md={4} className="number" ><p>{cart.length}</p></Col>
+                <Col md={6} className="text"><p>Courses Selected: </p></Col>
+                <Col md={6} className="number" ><p>{cart.length}</p></Col>
                 </Row>
                 <Row>
-                <Col md={8} className="text"><p>Course Price: </p></Col>
-                <Col md={4} className="number" ><p>&#2547; {total}</p></Col>
+                <Col md={6} className="text"><p>Course Price: </p></Col>
+                <Col md={6} className="number" ><p>&#2547; {total}</p></Col>
                 </Row>
                 <Row>
-                <Col md={8} className="text"><p>Total Payable: </p></Col>
-                <Col md={4} className="number" ><p>&#2547; {total}</p></Col>
+                <Col md={6} className="text"><p>Total Payable: </p></Col>
+                <Col md={6} className="number" ><p>&#2547; {total}</p></Col>
                 </Row>
                 <Row className="justify-content-md-center">
                 <Col md={10}><Button className="checkout-btn">Check Out</Button></Col>
